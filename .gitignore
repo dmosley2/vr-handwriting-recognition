@@ -104,3 +104,35 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+#The python_embed folder
+/Assets/StreamingAssets/python_embed/
+
+/FinalBuild/
+/.plastic/
+/UpgradeLog.htm
+/output.json
+
+Assets/3DSystems/
+Assets/Furniture Mega Pack/
+Assets/Instant Screenshot/
+Assets/LumiStudio/
+Assets/Oculus/
+Assets/Office Pack/
+Assets/Office Supplies Low Poly/
+Assets/OpenCV+Unity/
+Assets/Picture_Frames_FREE/
+Assets/TextMesh Pro/
+Assets/VR Handwriting Testing
+Assets/Unity VR Basics 2023 Hands/
+Assets/Samples/
+Assets/CompositionLayers/
+Assets/XR/
+Assets/XRI/
+Assets/_Recovery/
+
+#Model files
+Assets/StreamingAssets/TrOCR/
+Assets/decoder_model_merged.onnx
+Assets/encoder_model.onnx
+Assets/tokenizer.json
