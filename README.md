@@ -8,7 +8,7 @@ The project was completed as an M.S. thesis at Eastern Washington University. An
 - Embedded Python runtime within Unity to run inference without an external server
 - FastAPI inference server bridging Unity and the TrOCR model
 - TrOCR integration for handwritten text recognition
-- Three distinct VR writing interfaces, each with different interaction models and rendering approaches
+- Three distinct VR writing interfaces
 - 19-participant user study with statistical analysis using Linear Mixed Effects Regression (LMER)
 - Color-coded confidence feedback system for real-time model output visualization
 
